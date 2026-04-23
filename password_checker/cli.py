@@ -1,4 +1,3 @@
-import argparse
 import getpass
 from password_checker.checker import check_password
 
